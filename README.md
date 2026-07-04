@@ -49,10 +49,7 @@ A modern, responsive, and mobile-friendly navigation bar built using HTML, CSS, 
 
 **Ajay Kumar**
 
-- GitHub: https://github.com/yourusername
-- Portfolio: https://yourportfolio.com
-- LinkedIn: https://linkedin.com/in/yourprofile
-
+- GitHub: https://github.com/ajay0450586-coder
 ---
 
 ## ❤️ Thank You
