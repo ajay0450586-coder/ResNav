@@ -17,7 +17,7 @@ A modern, responsive, and mobile-friendly navigation bar built using HTML, CSS, 
 
 ## 🎥 Demo Video
 > Click the image below to watch the demo.
-> [![Watch Demo](./assets/resnav.mp4)]
+> [![Watch Demo](./assets/respNav/respNav.mp4)]
 >
 > ---
 
@@ -43,3 +43,16 @@ A modern, responsive, and mobile-friendly navigation bar built using HTML, CSS, 
 - JavaScript (ES6)
 
 ---
+---
+
+## 👨‍💻 Author
+
+**Ajay Kumar**
+
+- GitHub: https://github.com/yourusername
+- Portfolio: https://yourportfolio.com
+- LinkedIn: https://linkedin.com/in/yourprofile
+
+---
+
+## ❤️ Thank You
